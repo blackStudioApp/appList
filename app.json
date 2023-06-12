@@ -8,14 +8,24 @@
     "appPlayLink": "https://play.google.com/store/apps/details?id=com.launch.app.apple",
     "appMessage": "New App"
   },
+        
+   {
+    "appName": "Ios 17 Widget",
+    "appIcon": "https://raw.githubusercontent.com/blackStudioApp/appList/main/ss-4/unnamed-7.png",
+    "appScreenImage": "https://raw.githubusercontent.com/blackStudioApp/appList/main/ss-4/unnamed-8.png",
+    "appPlayLink": "https://play.google.com/store/apps/details?id=com.ios.widget.app.ios17widget",
+    "appMessage": "Free App"
+  },
     
-          {
+   {
     "appName": "Generate Own Ai Face",
     "appIcon": "https://play-lh.googleusercontent.com/zYo9QqII1-ouT7eWwIZvzxKPs3_3eEkfyDdBReu3QOxdyxPHcTo7FuqTkYwsyrNiC8U=w480-h960-rw",
     "appScreenImage": "https://play-lh.googleusercontent.com/NAN3n6LjUnXCJJIZvR_IxVMpK3FVEXMioSTz2c8GnNAqBJVD8AcRLRtD9J3rhbLiCQ=w5120-h2880-rw",
     "appPlayLink": "https://play.google.com/store/apps/details?id=com.developer.ai.avatar.portraitgenerator",
-    "appMessage": "Test Message"
-  }
+    "appMessage": "Free Try"
+   }
+        
+        
          
 ]
   
